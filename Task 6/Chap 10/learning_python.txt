@@ -1,0 +1,4 @@
+In Python you can create variables dynamically
+In python you can use many libraries for data science projects
+In python you can use loops and conditional statements by writing simple syntax
+In python you can work in object oriented programming tasks.
